@@ -10,7 +10,7 @@ https://www.amazon.co.jp/dp/4046021969/
 
 Pythonコードは、コードを実行しながら中身を理解できるように、全てJupyter Notebook形式で幾つかのセルに分けて準備されています。
 
-## Requirement & Usage
+## Requirement
 - Python3.4 以上
 - Jupyter Notebook環境
 - pipでインストールする項目は `requirements.txt`を参照ください。
@@ -22,6 +22,6 @@ Pythonコードは、コードを実行しながら中身を理解できるよ�
 ## ミスの指摘などに関して
 ご迷惑をおかけしており大変申し訳ございません。Pull Requestをお送り頂くか、info@aidemy.net までお気軽にご連絡くださいませ。
 
-## さらいに学習したい方は...
+## さらに学習したい方は...
 エンジニアのテックカレッジ「Aidemy」がオススメです。Pythonの基礎からディープラーニングまで、今なら無料でプログラミングを学習できます。
 https://aidemy.net/
