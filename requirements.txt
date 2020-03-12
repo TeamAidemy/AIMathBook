@@ -94,7 +94,7 @@ pip-review==1.0
 post==0.0.13
 prompt-toolkit==1.0.15
 protobuf==3.4.0
-psutil==5.4.0
+psutil==5.6.6
 ptyprocess==0.5.2
 public==0.0.38
 pycparser==2.18
