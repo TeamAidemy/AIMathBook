@@ -102,7 +102,7 @@ pycrypto==2.6.1
 pycurl==7.43.0
 pydotplus==2.0.2
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==17.3.0
 pyparsing==2.2.0
 pyperclip==1.5.27
