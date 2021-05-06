@@ -28,7 +28,7 @@ docutils==0.14
 entrypoints==0.2.3
 filelock==2.0.12
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 gensim==3.0.1
 get==0.0.21
 graphviz==0.8.1
