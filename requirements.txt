@@ -77,7 +77,7 @@ numpydoc==0.7.0
 oauthlib==2.0.6
 odo==0.5.0
 olefile==0.44
-opencv-python==3.3.0.10
+opencv-python==3.4.7.28
 packaging==16.8
 pandas==0.20.3
 pandas-datareader==0.5.0
