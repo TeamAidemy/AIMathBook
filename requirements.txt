@@ -54,7 +54,7 @@ jupyter-console==5.2.0
 jupyter-core==4.3.0
 Keras==2.0.8
 llvmlite==0.20.0
-lxml==4.1.0
+lxml==4.6.5
 Markdown==2.6.9
 MarkupSafe==1.0
 matplotlib==2.1.0
