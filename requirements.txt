@@ -59,7 +59,7 @@ Markdown==2.6.9
 MarkupSafe==1.0
 matplotlib==2.1.0
 mecab-python3==0.7
-mistune==0.8
+mistune==2.0.3
 mock==2.0.0
 mpmath==1.0.0
 multipledispatch==0.4.9
