@@ -63,7 +63,7 @@ mistune==0.8
 mock==2.0.0
 mpmath==1.0.0
 multipledispatch==0.4.9
-nbconvert==5.3.1
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.0
 ngram==3.3.2
